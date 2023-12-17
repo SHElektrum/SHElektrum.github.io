@@ -1,23 +1,10 @@
 ---
 layout: page
-title: About the Theme
+title: Über mich
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
-
-
-Hallo Cool, dass du hier bist.
+Hi, cool, dass du da bist. Hier sollte etwas über mich stehen, das tut es aber noch nicht.
