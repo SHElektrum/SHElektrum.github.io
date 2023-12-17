@@ -1,7 +1,7 @@
 # Site
 title:              
 bio:                'Wortkunst'
-description:        "Deine SPruch App"
+description:        "Deine Spruch App"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -9,6 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             de_DE
 url:                
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
